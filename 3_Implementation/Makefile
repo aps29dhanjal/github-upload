@@ -8,7 +8,7 @@ BUILD = build
 SRC = tic_tac_toe.c\
 src/win.c\
 src/draw_board.c\
-# All test source files
+# All test source files -
 TEST_SRC = src/win.c\
 src/draw_board.c\
 test/test_tic.c\

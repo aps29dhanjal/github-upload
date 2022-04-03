@@ -1,4 +1,5 @@
 #include"../inc/functions.h"
+
 void draw(char square[10],char player1_name[15],char player2_name[15]){
 	
 	printf("\n\n\t Tic Tac Toe \n\n");
